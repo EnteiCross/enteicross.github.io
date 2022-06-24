@@ -1,0 +1,12 @@
+{
+  "name": "ExtractorPage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ad34b78f764fb4fd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
